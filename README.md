@@ -1,0 +1,2 @@
+# stechstav.sk
+stechstav.sk
