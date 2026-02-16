@@ -1,10 +1,10 @@
 {
-  "_app_generated_index-6937cd5a.BbM5h0w8.css": {
-    "file": "assets/static/app_generated_index-6937cd5a.BbM5h0w8.css",
-    "src": "_app_generated_index-6937cd5a.BbM5h0w8.css"
+  "_app_generated_index-6937cd5a.F8VHN_hw.css": {
+    "file": "assets/static/app_generated_index-6937cd5a.F8VHN_hw.css",
+    "src": "_app_generated_index-6937cd5a.F8VHN_hw.css"
   },
   "node_modules/vike/dist/client/runtime-server-routing/entry.js": {
-    "file": "assets/entries/entry-server-routing.CkUT5816.js",
+    "file": "assets/entries/entry-server-routing.B-hlqcC6.js",
     "name": "entries/entry-server-routing",
     "src": "node_modules/vike/dist/client/runtime-server-routing/entry.js",
     "isEntry": true,
@@ -13,13 +13,13 @@
     ]
   },
   "virtual:vike:page-entry:client:/pages/index": {
-    "file": "assets/entries/pages_index.BQ6PZkDT.js",
+    "file": "assets/entries/pages_index.CEBaMvg0.js",
     "name": "entries/pages/index",
     "src": "virtual:vike:page-entry:client:/pages/index",
     "isEntry": true,
     "isDynamicEntry": true,
     "css": [
-      "assets/static/app_generated_index-6937cd5a.BbM5h0w8.css"
+      "assets/static/app_generated_index-6937cd5a.F8VHN_hw.css"
     ]
   }
 }
